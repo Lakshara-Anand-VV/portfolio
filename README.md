@@ -109,7 +109,7 @@ No build tools required.
 
 Email: [laksharavofficial@gmail.com](mailto:laksharavofficial@gmail.com)
 LinkedIn: https://linkedin.com/in/lakshara-anand
-GitHub: https://github.com/lakshara-anand
+GitHub: https://github.com/Lakshara-Anand-VV
 
 ---
 
