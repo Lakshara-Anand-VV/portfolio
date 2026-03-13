@@ -2,7 +2,7 @@
 
 Personal developer & research portfolio showcasing projects, research work, and technical skills in **Artificial Intelligence, Computer Vision, Full-Stack Development, Embedded Systems and Cloud Computing**.
 
-Live Website: https://lakshara-anand-portfolio.vercel.app/
+Live Website: https://laksharaanand.kuralarawebflux.com/
 
 ---
 
